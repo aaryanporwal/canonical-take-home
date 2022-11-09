@@ -9,18 +9,20 @@ const BlogPost = ({ image, link, title, authorLink, author, date }) => {
     <>
       <div className="col-4">
         <div className="p-card shadowed">
-          <h5 className="p-muted-heading">CLOUD AND SERVER</h5>
+          <h5 className="p-muted-heading">cloud and server</h5>
           <hr className="u-sv1" />
+          <img src={image} alt="" className="p-card__image" />
           <div className="p-card__content">
-            <img src={image} alt="" className="p-card__image" />
             <h3 className="p-heading--7">
               <a href={link}>{title}</a>
             </h3>
-            <p className="p-heading--6">
-              By <a href={authorLink}>{author}</a> on {fullMonth} {fullYear}
-            </p>
-            <hr className="u-sv1" />
           </div>
+          <p>
+            <em>
+              By <a href={authorLink}>{author}</a> on {fullMonth} {fullYear}
+            </em>
+          </p>
+          <hr className="u-sv1" />
           <div className="p-card__footer">
             <p>Article</p>
           </div>

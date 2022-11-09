@@ -5,3 +5,13 @@
 //   background-color: $color-mid-dark;
 // }
 
+.p-card {
+  border: none;
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 2px;
+  border-top: 3px solid #a87ca0;
+}
+
+.p-card__content {
+  height: 150px;
+}

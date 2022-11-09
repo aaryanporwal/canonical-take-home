@@ -14,9 +14,10 @@ const App = () => {
   }, []);
 
   return (
-    <div className="row u-equal-height u-clearfix">
+    <div>
       <div className="row">
         <h1>Canonical Blog</h1>
+        <p>Recreated by Aaryan Porwal</p>
       </div>
       <div className="row u-equal-height u-clearfix">
         {blogPost.map((item, index) => {
