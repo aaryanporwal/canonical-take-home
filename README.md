@@ -1,5 +1,6 @@
 <img src="https://user-images.githubusercontent.com/54525904/200875277-19a929c4-5252-404c-9e3d-dc9a7559dc1a.png" height="480px" width="870px" />
-Re creation of canonical blog page in [vanilla framework](https://vanillaframework.io/docs)
+
+Re creation of canonical blog page in [Vanilla Framework](https://vanillaframework.io/docs).
 
 
 # Getting Started with Create React App
