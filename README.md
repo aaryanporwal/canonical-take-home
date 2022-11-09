@@ -1,8 +1,12 @@
+<img src="https://user-images.githubusercontent.com/54525904/200875277-19a929c4-5252-404c-9e3d-dc9a7559dc1a.png" height="480px" width="870px" />
+Re creation of canonical blog page in [vanilla framework](https://vanillaframework.io/docs)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+<details>
+<summary>Available Scripts</summary>
 
 In the project directory, you can run:
 
@@ -68,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+</details>
